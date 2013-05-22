@@ -1,0 +1,15 @@
+{
+    "name": "Test App",
+    "className": "TestApp",
+    "javascript": [
+        "js/app.js",
+        "js/validation.js"
+    ],
+    "css": [
+        "css/app.css",
+        "css/nav.css"
+    ],
+    "img": [
+        "img/dontpanic.jpg"
+    ]
+}
