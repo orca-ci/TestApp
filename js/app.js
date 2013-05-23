@@ -1,1 +1,1 @@
-var a = 'test app content';
+var a = 'test app content from branch-1';
