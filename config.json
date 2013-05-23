@@ -3,7 +3,6 @@
     "className": "TestApp",
     "javascript": [
         "js/app.js",
-        "js/validation.js"
     ],
     "css": [
         "css/app.css",
