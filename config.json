@@ -1,5 +1,5 @@
 {
-    "name": "Test App",
+    "displayName": "Test App",
     "className": "TestApp",
     "javascript": [
         "js/app.js",
