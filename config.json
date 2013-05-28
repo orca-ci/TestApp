@@ -1,6 +1,6 @@
 {
     "name": "Test App : branch-1",
-    "className": "TestApp",
+    "className": "TestApp-b1",
     "javascript": [
         "js/app.js",
     ],
