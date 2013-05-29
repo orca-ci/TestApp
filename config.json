@@ -1,6 +1,6 @@
 {
-    "displayName": "Test App: Branch-2",
-    "className": "TestApp_b2",
+    "displayName": "Test App: Branch-3",
+    "className": "TestApp_b3",
     "javascript": [
         "js/app.js",
         "js/validation.js"
